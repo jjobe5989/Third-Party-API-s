@@ -1,4 +1,4 @@
-<h1>Challenge-05 Web API's Bootcamp README</h1>
+<h1>Challenge-05 Third-Party-API's Bootcamp README</h1>
 
 This is my final product for the fifth challenge given in this bootcamp.
 
