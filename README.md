@@ -14,7 +14,7 @@ This README contains the following information for the work I have done in this 
 
 This is a screenshot of my third javascript website. The website itself is a workday planner that can be used to schedule your days. the times are from 9am to 5pm, which is most peoples day, and also includes the date and time at the top of the screen.
 
-![Screenshot (18)](https://user-images.githubusercontent.com/24994854/200443121-93044807-4be1-400f-8c6b-f0d222cbc8b0.png)
+![Screenshot (1)](https://user-images.githubusercontent.com/24994854/200653133-36f26e9f-737e-4bc5-9d89-cf19a4c529a5.png)
 
 <h1>My Additions</h1>
 
