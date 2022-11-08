@@ -25,4 +25,4 @@ During this project I used plenty of jquery to make a simple workday planner. I 
 See LICENSE in repository
 
 <h1>Link to Deployed Site</h1>
-https://jjobe5989.github.io/Web-API-Code-Quiz/
+https://jjobe5989.github.io/Third-Party-API-s/
