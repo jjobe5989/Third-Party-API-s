@@ -1,1 +1,28 @@
-# Third-Party-API-s
+<h1>Challenge-05 Web API's Bootcamp README</h1>
+
+This is my final product for the fifth challenge given in this bootcamp.
+
+This README contains the following information for the work I have done in this project.
+
+- Description
+
+- Screenshots of the final product
+
+- My Additions
+
+<h1>Description</h1>
+
+This is a screenshot of my third javascript website. The website itself is a workday planner that can be used to schedule your days. the times are from 9am to 5pm, which is most peoples day, and also includes the date and time at the top of the screen.
+
+![Screenshot (18)](https://user-images.githubusercontent.com/24994854/200443121-93044807-4be1-400f-8c6b-f0d222cbc8b0.png)
+
+<h1>My Additions</h1>
+
+During this project I used plenty of jquery to make a simple workday planner. I also edited the css for a better more user friendly text box for the times.
+
+<h1>License</h1>
+
+See LICENSE in repository
+
+<h1>Link to Deployed Site</h1>
+https://jjobe5989.github.io/Web-API-Code-Quiz/
