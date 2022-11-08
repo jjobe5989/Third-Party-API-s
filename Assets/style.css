@@ -11,6 +11,8 @@ textarea {
   color: #000000;
   border-left: 1px solid black;
   padding: 10px;
+  width: 100%;
+  height: 100%;
 }
 
 .jumbotron {
@@ -48,12 +50,12 @@ textarea {
 }
 
 .present {
-  background-color: #ff6961;
+  background-color: #6193ff;
   color: white;
 }
 
 .future {
-  background-color: #77dd77;
+  background-color: #e1c63b;
   color: white;
 }
 
